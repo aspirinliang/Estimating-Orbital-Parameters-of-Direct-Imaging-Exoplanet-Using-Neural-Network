@@ -1,6 +1,4 @@
-Here is the `README.md` file in English, with all citations removed.
 
------
 
 ````markdown
 # FM-MCMC: Estimating Orbital Parameters of Direct Imaging Exoplanets Using Neural Networks
@@ -86,8 +84,7 @@ If you use this code or methodology in your research, please cite our paper:
 }
 ```
 
-```
-```
+
 
 
 
